@@ -1,0 +1,5 @@
+com/parking_allocater/domain/ParkingSpace.class
+com/parking_allocater/domain/BaseParkingSpace.class
+com/parking_allocater/controller/ApplicationController.class
+com/parking_allocater/domain/Vehicle.class
+com/parking_allocater/service/ParkingAlloterService.class
